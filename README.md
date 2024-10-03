@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanya-14
 - 👀 I’m interested in web development and machine learning
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning mongoDB and AngularJS
 
 
 <!---
